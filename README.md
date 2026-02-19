@@ -6,7 +6,7 @@ CS student (Senior) at California State University, Sacramento — seeking **Sof
 I build real products end-to-end, enjoy performance-minded engineering, and work well in agile teams.
 
 📍 Sacramento, CA  
-📧 jtescobar@csus.edu  
+📧 julio.escobar.dev@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/juliio-escobar/  
 💻 GitHub: https://github.com/Julio-Escobar  
 
@@ -74,5 +74,5 @@ Repo: https://github.com/Julio-Escobar/Particles
 ## What I’m looking for
 Internships where I can contribute to production code, learn through mentorship/code review, and ship features fast with a team.
 
-If you’re hiring, feel free to reach out: **jtescobar@csus.edu**
+If you’re hiring, feel free to reach out: **julio.escobar.dev@gmail.com**
 
