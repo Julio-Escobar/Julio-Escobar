@@ -6,7 +6,7 @@ CS student (Senior) at California State University, Sacramento — seeking **Sof
 I build real products end-to-end, enjoy performance-minded engineering, and work well in agile teams.
 
 📍 Sacramento, CA  
-📧 julio.escobar.dev@gmail.com 
+📧 julio.escobar.dev@gmail.com   
 🔗 LinkedIn: https://www.linkedin.com/in/juliio-escobar/  
 💻 GitHub: https://github.com/Julio-Escobar  
 
