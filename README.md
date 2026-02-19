@@ -1,8 +1,6 @@
-## Hi there 👋
+# Julio Tavita Escobar 
 
-# Julio Tavita Escobar
-
-CS student (Senior) at California State University, Sacramento — seeking **Software Engineering / Full-Stack / Systems internships**.  
+CS student (Senior) at California State University, Sacramento — seeking **Software Engineering / Full-Stack / IT / Systems internships**.  
 I build real products end-to-end, enjoy performance-minded engineering, and work well in agile teams.
 
 📍 Sacramento, CA  
