@@ -1,76 +1,78 @@
-# Julio Tavita Escobar 
+# Julio Tavita Escobar
 
-CS student (Senior) at California State University, Sacramento — seeking **Software Engineering / Full-Stack / IT / Systems internships**.  
-I build real products end-to-end, enjoy performance-minded engineering, and work well in agile teams.
+CS student at California State University, Sacramento — **IT Systems Engineering Intern @ Bosch**.  
+I like building reliable software, improving processes, and shipping clean, well-documented work.
 
 📍 Sacramento, CA  
-📧 julio.escobar.dev@gmail.com   
+📧 jtescobar@csus.edu  
 🔗 LinkedIn: https://www.linkedin.com/in/juliio-escobar/  
 💻 GitHub: https://github.com/Julio-Escobar  
 
 ---
 
-## Highlights
-- **Scrum Lead Developer** on a full-stack tutoring platform (React, Node.js, MongoDB, JWT)
-- Built a **real-time multiplayer Discord game bot** in **C++** using Discord APIs (async events + live gameplay)
-- Created a **2D particle simulation engine** in **C++/SFML** optimized for **60+ FPS**
+## Currently
+**IT Systems Engineering Intern — Bosch USA** (Apr 2026 – Present)  
+- Documenting and aligning IT operations workflows to **ITIL**
+- Creating/updating **SOPs** and work instructions to standardize day-to-day IT processes
+- Helping define **KPIs** and building dashboards using data from **ITSM + monitoring tools**
+- Assisting with reporting + process rollouts to improve reliability and consistency  
+**Tools:** Jira Service Desk, Windows, ITSM
 
 ---
 
 ## Featured Projects
 
-### Go Tutor Academy — Full-Stack Tutoring Platform (Scrum Lead)
-**Stack:** React • Node.js • MongoDB • JWT • Material UI  
-**What I did:**
-- Led a Scrum-based team to deliver a full-stack platform with secure authentication and student↔tutor communication
-- Engineered a tutor discovery + filtering system (subjects/ratings/availability) and improved search efficiency by **~40%**
-- Designed a responsive dashboard with Material UI + polished micro-interactions to improve retention in testing
-- Managed sprint execution using **Git + Jira**, improving collaboration and integration across a semester-long agile build
+### CSUS Belonging Maps — Senior Project (Team Leader)
+**Flutter mobile app** supporting Sacramento State’s Belonging Maps initiative—helping students, faculty, staff, and prospective students discover campus + regional resources that promote connection, wellbeing, and belonging. :contentReference[oaicite:1]{index=1}  
+- Built with **ArcGIS-powered interactive maps** + pin detail views for locations/resources :contentReference[oaicite:2]{index=2}  
+- Implemented core UX: welcome flow, campus/community navigation, sidebar menu, and accessibility-focused design :contentReference[oaicite:3]{index=3}  
+- Includes admin login flow; planned roadmap for search, filters, surveys, and admin editing tools :contentReference[oaicite:4]{index=4}  
+- Current map themes: **SOMOS, Ummah, Ubuntu** :contentReference[oaicite:5]{index=5}  
+**Tech:** Flutter, Dart, ArcGIS Maps SDK for Flutter, flutter_dotenv, url_launcher :contentReference[oaicite:6]{index=6}  
+Repo: https://github.com/Julio-Escobar/CSUS-Belonging-Maps
 
+---
+
+### GokuBlackBot — Role Management + Self-Roles Discord Bot (Fork + Expansion)
+Customizable Discord utility bot focused on scalable role management for communities (built with Node.js + discord.js + Express + dotenv). :contentReference[oaicite:8]{index=8}  
+- Built/administered **self-assignable roles** so members can opt into approved roles (e.g., pings, games, colors, interests) :contentReference[oaicite:9]{index=9}  
+- Implemented **reaction-role workflows** to assign roles from reactions rather than manual admin work :contentReference[oaicite:10]{index=10}  
+- Added **guild-specific configuration** so each server can maintain its own role setup independently :contentReference[oaicite:11]{index=11}  
+- Organized codebase into a **commands/events/services/utils** structure with event-driven handlers for interactions + reaction add/remove :contentReference[oaicite:12]{index=12}  
+**Tech:** Node.js, discord.js, Express, dotenv, JavaScript (ES Modules) :contentReference[oaicite:13]{index=13}  
+Repo: https://github.com/Julio-Escobar/GokuBlackBot  
+> Started from a Discord getting-started template and expanded into a practical server utility bot. :contentReference[oaicite:14]{index=14}
+
+---
+
+### Go Tutor Academy — Tutoring Platform (Team Project)
+Website that connects students with tutors for academic support.  
+- Students can **find tutors** by subject/availability and **schedule appointments** using an integrated calendar
+- Tutors can **track work hours** and leave session notes; students can **rate tutors**
+- Admin workflows include **payroll management** and monitoring tutor performance
+- Team workflow used **main / dev / feature branches** for stable releases and structured development  
+**Tech:** JavaScript, CSS, HTML (per repo language breakdown)  
 Repo: https://github.com/ealeonraz/go-tutor-academy
 
 ---
 
-### GokuBlack-Bot — Multiplayer Discord Game Bot (Solo)
-**Stack:** C++ • D++ (Discord API)  
-**What I did:**
-- Built a real-time multiplayer dice game bot with asynchronous gameplay + event handling
-- Implemented role-based player recognition that discovers users with a “player” role and loads token IDs at runtime
-- Designed a dual-channel system: public game board updates + private per-player randomized dice rolls via DM
-- Added NPC automation that generates/stores hidden roll data and privately relays results to the game initiator
-- Optimized response handling / throughput to keep events smooth under live multiplayer conditions
-
-Repo: https://github.com/Julio-Escobar/GokuBlackBot
-
----
-
-### Particles Engine — Real-Time Graphics Simulation
-**Stack:** C++ • SFML  
-**What I did:**
-- Built a high-performance 2D particle engine rendering hundreds of entities with minimal frame loss
-- Implemented a custom matrix transformation pipeline (translation/rotation/scaling) using linear algebra + vectors
-- Improved performance using memory management, pointer arithmetic, and frame-capping logic for smooth animation
-- Profiled and debugged to maintain **60+ FPS** across varied simulation loads
+### Particles Engine — Real-Time Simulation (C++ / SFML)
+A real-time particle simulation project focused on graphics + performance.
+- Implemented translation/rotation/scaling using vectors + linear algebra
+- Tuned frame behavior to keep the simulation smooth under load
 
 Repo: https://github.com/Julio-Escobar/Particles
 
 ---
 
-## Technical Skills
-**Languages:** Java, C++, C, JavaScript, TypeScript, HTML/CSS, Bash, PowerShell  
-**Frameworks/Libraries:** React, Next.js, Node.js, Tailwind CSS, Material UI, SFML  
-**Tools/Platforms:** Git, Linux, Vim, Docker, Vercel, MongoDB, Jira, VS Code, Wireshark  
-
----
-
-## Leadership
-- **Webmaster (SHPE):** Maintains and ships updates for https://www.sacshpe.com using Next.js + TypeScript + Tailwind; deployed on Vercel
-- **MESA Western Digital Mentorship:** Selected for a competitive 6-month mentorship focused on career and technical growth
+## Skills
+**Languages:** C++, Java, JavaScript, TypeScript, HTML/CSS  
+**Tools:** Git/GitHub, Jira Service Desk, Windows, Linux/CLI  
+**Interests:** IT operations, automation, systems reliability, backend + full-stack development
 
 ---
 
 ## What I’m looking for
-Internships where I can contribute to production code, learn through mentorship/code review, and ship features fast with a team.
+Internships where I can contribute to production work, learn through mentorship/code review, and ship impactful features.
 
-If you’re hiring, feel free to reach out: **julio.escobar.dev@gmail.com**
-
+If you’re hiring interns: **jtescobar@csus.edu**
