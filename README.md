@@ -4,7 +4,7 @@ CS student at California State University, Sacramento — **IT Systems Engineeri
 I like building reliable software, improving processes, and shipping clean, well-documented work.
 
 📍 Sacramento, CA  
-📧 julio.escobar.dev@gmail.com 
+📧 julio.escobar.dev@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/juliio-escobar/  
 💻 GitHub: https://github.com/Julio-Escobar  
 
