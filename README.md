@@ -4,7 +4,7 @@ CS student at California State University, Sacramento — **IT Systems Engineeri
 I like building reliable software, improving processes, and shipping clean, well-documented work.
 
 📍 Sacramento, CA  
-📧 jtescobar@csus.edu  
+📧 julio.escobar.dev@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/juliio-escobar/  
 💻 GitHub: https://github.com/Julio-Escobar  
 
@@ -75,4 +75,4 @@ Repo: https://github.com/Julio-Escobar/Particles
 ## What I’m looking for
 Internships where I can contribute to production work, learn through mentorship/code review, and ship impactful features.
 
-If you’re hiring interns: **jtescobar@csus.edu**
+If you’re hiring interns: **julio.escobar.dev@gmail.com**
